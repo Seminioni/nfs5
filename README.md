@@ -19,4 +19,5 @@ Need For Speed 5: Porsche Unleashed built with Wineskin and `WS11WineCX64Bit20` 
 2. Try to add additional cars
 
 ## Cudos 
-Author of this video with step-by-step [guide](https://youtu.be/5IfB1pCSdnA)
+- Author of this video with step-by-step [guide](https://youtu.be/5IfB1pCSdnA)
+- Play 32-bit Steam games on Catalina Mac using WineSkin [guide](https://www.winytips.com/play-32-bit-steam-games-catalina-wineskin-mac/)
