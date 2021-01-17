@@ -2,6 +2,11 @@
 
 Need For Speed 5: Porsche Unleashed built with Wineskin and `WS11WineCX64Bit20` engine for OSX `Catalina`
 
+## Play
+1. Clone repository
+2. Double-click on `PorscheUnleashed.app`
+3. Enjoy
+
 ## Used files: 
 1. Original game - [link](https://www.myabandonware.com/game/need-for-speed-porsche-unleashed-bg9#download)
 2. License key - 14077 BUSY BURP SEEK PRAY
